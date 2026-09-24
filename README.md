@@ -6,7 +6,7 @@
 
 ## Skills I'm Building
 - Git and GitHub
-  python and java
+- python and java
 - goal: become a good developer majoring with python and java
 
 ## Current Projects
